@@ -68,7 +68,8 @@ Responde ÚNICAMENTE con JSON válido (sin markdown, sin backticks):
   },
   "tips": ["consejo1", "consejo2", "consejo3"],
   "warnings": ["advertencia si aplica"],
-  "difficulty": "fácil/media/difícil"
+"difficulty": "fácil/media/difícil",
+"environment": "interior/exterior/ambos"
 }
 Si no es planta: {"identified": false, "error": "razón"}`;
 
